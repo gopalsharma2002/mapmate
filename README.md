@@ -26,7 +26,9 @@ and route navigation — built using OpenStreetMap (no API key required).
 | ![Home](screenshots/home.jpeg) | ![Route](screenshots/route.jpeg) |
 
 ## Demo Video
-Video will be added here after push (see below).
+https://github.com/user-attachments/assets/9c283c65-c165-4591-a1cf-b6375905a506
+
+
 
 ## Setup
 \`\`\`bash
